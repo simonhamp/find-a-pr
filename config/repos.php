@@ -53,10 +53,9 @@ return [
         'Lakshan-Madushanka' => [
             'laravel-comments',
         ],
-        'nativephp' => [
-            'laravel',
-            'electron',
-            'electron-plugin',
+        'simonhamp' => [
+            'laravel-nova-csv-import',
+            'the-og',
         ],
     ],
 
